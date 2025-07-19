@@ -60,4 +60,4 @@ JS에서 사용되는 Array와 Linked list의 차이를 공부하기 위해 주�
 
 #### [발표 영상](https://www.youtube.com/watch?v=C7i32oggySM)
 
-[![alt text](image-2.png)](https://www.youtube.com/watch?v=xjHQLXsSMkY)
+[![alt text](시간복잡도-썸네일.png)](https://www.youtube.com/watch?v=xjHQLXsSMkY)
