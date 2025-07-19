@@ -58,4 +58,4 @@ JS에서 사용되는 Array와 Linked list의 차이를 공부하기 위해 주�
 
 알고리즘 문제 풀이 중 시간초과 문제를 해결하기 위해 주제 선정
 
-[![alt text](시간복잡도-썸네일.png)](https://www.youtube.com/watch?v=xjHQLXsSMkY)
+[![alt text](시간복잡도-썸네일.png)](https://www.youtube.com/watch?v=C7i32oggySM)
